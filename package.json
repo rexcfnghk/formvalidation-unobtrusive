@@ -1,0 +1,12 @@
+{
+  "name": "formvalidation-unobtrusive",
+  "version": "0.0.1",
+  "description": "Add-on to FormValidation.IO to enable unobtrusive validation options in data-* attributes.",
+  "main": "formvalidation.unobtrusive.js",
+  "repository": {
+    "url": "https://github.com/rexcfnghk/formvalidation-unobtrusive.git",
+    "type": "git"
+  },
+  "author": "Rex Ng",
+  "license": "MIT"
+}
